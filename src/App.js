@@ -40,7 +40,7 @@ function App() {
           <tr className="coins-heading">
             <td>Name</td>
             <td>Price</td>
-            <td>24%</td>
+            <td>24<small>hr</small> %</td>
             <td>Market Cap</td>
           </tr>
         </table>
